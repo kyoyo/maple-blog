@@ -22,6 +22,8 @@
     git clone https://github.com/honmaple/flask-maple
     cd flask-maple
     python setup.py install
+
+    pip install flask-maple --upgrade
     #+END_SRC
     
     About *fortune*
